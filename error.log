@@ -1,0 +1,3 @@
+[ERREUR] Validation echouee pour User[nom=, age=25] : Nom d'utilisateur invalide
+[ERREUR] Validation echouee pour User[nom=Bob, age=16] : Utilisateur mineur (age=16)
+[ERREUR] Erreur de calcul : Division par zero impossible
