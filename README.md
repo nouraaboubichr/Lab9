@@ -9,21 +9,12 @@
 * L’objectif principal est de comprendre comment une exception peut être **levée avec `throw`**, puis récupérée et traitée par le programme appelant.
 * Cet exercice permet également de voir la différence entre laisser une erreur se propager et la capturer directement dans le programme.
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040018.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-12 035831.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040044.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-12 040016.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040058.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-12 040030.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 050915.png" />
-
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040018.png" />
-
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040044.png" />
-
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040058.png" />
-
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 050915.png" />
 
 # Exercice 2 - Lecture d’un fichier de nombres (I/O + exceptions)
 
@@ -34,21 +25,12 @@
 * La classe `MainFile` permet de tester la méthode et d’afficher les nombres récupérés depuis le fichier.
 * L’objectif est de comprendre comment gérer les exceptions lors des opérations d’entrée/sortie et comment utiliser **try-with-resources** pour éviter les problèmes liés aux ressources.
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040018.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-12 040103.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040044.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-12 040119.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040058.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-12 040139.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 050915.png" />
-
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040018.png" />
-
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040044.png" />
-
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040058.png" />
-
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 050915.png" />
 
 # Exercice 3 - Validation d’utilisateur (exception personnalisée)
 
@@ -58,6 +40,15 @@
 * La méthode `validate()` lance `InvalidUserException` lorsque le nom est vide ou lorsque l’âge de l’utilisateur est inférieur à 18 ans.
 * La classe `MainUser` crée plusieurs utilisateurs, vérifie leurs informations et capture les exceptions avec un bloc `try-catch`.
 * Cet exercice montre comment créer ses propres exceptions afin de rendre les erreurs plus **claires, spécifiques et faciles à gérer**.
+
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-12 040155.png" />
+
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-12 040219.png" />
+
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-12 040314.png" />
+
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-12 040339.png" />
+
 
 # Exercice 4 - Journalisation des erreurs (logging)
 
