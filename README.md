@@ -59,21 +59,18 @@
 * Cette approche permet de conserver un **historique des erreurs**, ce qui peut être utile pour analyser les problèmes rencontrés par l’application.
 * L’objectif est donc de comprendre le principe de **journalisation (logging)** et son intérêt dans une application Java.
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040018.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-12 040403.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040044.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-12 040623.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040058.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-12 041635.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 050915.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-12 041651.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040018.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-12 041930.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040044.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-12 041949.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040058.png" />
-
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 050915.png" />
 
 # Synthèse - Gestion des exceptions
 
@@ -83,18 +80,4 @@
 * Le `try-with-resources` facilite la gestion automatique des fichiers et évite de laisser des ressources ouvertes.
 * Enfin, la journalisation des erreurs dans un fichier permet de conserver des informations utiles pour le suivi et le débogage du programme.
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040018.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040044.png" />
-
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040058.png" />
-
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 050915.png" />
-
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040018.png" />
-
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040044.png" />
-
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040058.png" />
-
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 050915.png" />
